@@ -8,10 +8,15 @@
 
 ## ⬇️ Download
 
-<a href="https://play.google.com/store/apps/details?id=com.toyou.toyouandroid">
-  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="100" />
-</a>
+<p>
+  <a href="https://apps.apple.com/kr/app/%ED%88%AC%EC%9C%A0-%EC%A7%88%EB%AC%B8%EC%9C%BC%EB%A1%9C-%EC%93%B0%EB%8A%94-%EC%9D%BC%EA%B8%B0-%EA%B0%90%EC%A0%95-%EA%B8%B0%EB%A1%9D/id6742442596"><img src="https://github.com/user-attachments/assets/0b054308-2575-4ddb-942f-a89be4e8f464" align="left" width=28%/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.toyou.toyouandroid"><img src="https://github.com/user-attachments/assets/468fa558-35f7-4c6f-b049-ca6b96374119" align="left" width=30%/></a>
+</p>
 
+<br>
+<br>
+<br>
+<br>
 <br>
 
 ## 📱 Overview
